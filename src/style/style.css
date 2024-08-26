@@ -1,0 +1,11 @@
+:root {
+    --darkblue: #040306;
+    --bluenavy: #0E1823;
+    --bluegreenish: #1B414B;
+    --white: #FBFBFB;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--bluenavy);
+}
