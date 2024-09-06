@@ -1,0 +1,2 @@
+!function(){document.getElementsByClassName("modal-open")[0].addEventListener("click",(function(){document.getElementById("mobile-menu").className="mobile-menu-container is-open"}),!1);for(var e=document.getElementsByClassName("modal-close"),n=0;n<e.length;n++)e[n].addEventListener("click",m,!1);function m(){document.getElementById("mobile-menu").className="mobile-menu-container"}}();
+//# sourceMappingURL=index.f84dbf1b.js.map
